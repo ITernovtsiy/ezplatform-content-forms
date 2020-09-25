@@ -48,4 +48,3 @@ class EzPlatformContentFormsExtension extends Extension implements PrependExtens
         ]);
     }
 }
-
